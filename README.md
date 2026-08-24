@@ -2,6 +2,7 @@
 
 A Safe, Static String library to replace Arduino String, plus non-blocking Serial I/O, I/O buffering, loopTimer and millisDelay. See README.md for revision notes. This library implemnents Safe (static) Strings which never cause reboots and has extensive debugging messages. Includes SafeStringReader: non-blocking tokenizing text reader, BufferedOutput: non-blocking text output, BufferedInput: extra buffering for text input, loopTimer: track of the maximum and average run times for the loop, PinFlasher: non-blocking flashing on an output Pin and millisDelay: a non-blocking delay, with single-shot, repeating, restart and stop facilities. Original author: Matthew Ford. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 4.1.15. Upstream: <https://github.com/PowerBroker2/SafeString>.
 
+**Source last updated:** 2022-02-03  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
