@@ -25,6 +25,10 @@ A Safe, Static String library to replace Arduino String, plus non-blocking Seria
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/SafeString`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Matthew Ford
